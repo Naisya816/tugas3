@@ -1,3 +1,6 @@
+// Naisya Putri Abdullah
+// 1IA20
+// 51424000
 // Import semua class dari package java.util (seperti Map, List, ArrayList, LinkedHashMap)
 import java.util.*;
 
